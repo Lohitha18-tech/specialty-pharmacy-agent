@@ -1,0 +1,13 @@
+Prior Authorization Policy
+
+Prior authorization is required for certain specialty medications before the medication can be fulfilled.
+
+If an insurance company requests additional clinical documentation, the case should remain pending until the required documentation is received and submitted.
+
+Required documentation may include clinical notes, diagnosis information, previous treatment history, laboratory results, or other supporting medical information.
+
+After the requested documentation is submitted, the prior authorization should be monitored for an insurance decision.
+
+If prior authorization is approved, the case can proceed to the next fulfillment step.
+
+If prior authorization is denied, the case should be reviewed to determine whether an appeal or additional documentation is appropriate.

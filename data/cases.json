@@ -1,0 +1,26 @@
+[
+    {
+        "case_id": "C1001",
+        "patient_name": "Sarah Johnson",
+        "medication": "Humira",
+        "diagnosis": "Rheumatoid Arthritis",
+        "insurance": "ABC Health",
+        "prescription_status": "Received",
+        "benefits_verification": "Completed",
+        "pa_status": "Pending",
+        "last_update": "2026-09-22",
+        "notes": "Insurance requested additional clinical documentation."
+    },
+    {
+        "case_id": "C1002",
+        "patient_name": "Michael Brown",
+        "medication": "Dupixent",
+        "diagnosis": "Atopic Dermatitis",
+        "insurance": "XYZ Insurance",
+        "prescription_status": "Received",
+        "benefits_verification": "Completed",
+        "pa_status": "Approved",
+        "last_update": "2026-09-23",
+        "notes": "Prior authorization approved. Case ready for fulfillment."
+    }
+]
